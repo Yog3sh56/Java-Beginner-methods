@@ -1,1 +1,1 @@
-This is my first try using GIT ever. I am using the terminal to do this.
+This repository contains some methods that can be run on JShell.
